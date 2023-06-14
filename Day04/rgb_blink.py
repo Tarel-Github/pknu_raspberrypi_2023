@@ -13,7 +13,7 @@ GPIO.setup(blue, GPIO.OUT)
 
 try:
     while True:
-        GPIO.output(red, False)
+        GPIO.output(red, False)     # RED on
         GPIO.output(green, True)
         GPIO.output(blue, True)
         time.sleep(0.5)
