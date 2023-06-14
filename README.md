@@ -50,4 +50,7 @@
 		- WPF C# M2Mqtt 패키지
 		
 WPF 모니터링, 컨트롤화면
+
+<img src="https://github.com/Tarel-Github/pknu-raspberrypi-2023/main/images/rasberrypi02.png" Width="700"/>
 라즈베리파이 테스트 결과
+<img src="https://github.com/Tarel-Github/pknu-raspberrypi-2023/main/images/rasberrypi01.jpg" Width="700"/>
