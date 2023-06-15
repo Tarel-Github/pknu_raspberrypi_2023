@@ -54,3 +54,8 @@ WPF 모니터링, 컨트롤화면
 <img src="https://github.com/Tarel-Github/pknu-raspberrypi-2023/main/images/rasberrypi02.png" Width="700"/>
 라즈베리파이 테스트 결과
 <img src="https://github.com/Tarel-Github/pknu-raspberrypi-2023/main/images/rasberrypi01.jpg" Width="700"/>
+
+## 7일차
+- 라즈베리파이 학습
+	- 파이카메라 ov5647
+	- OpenCV 4.7
